@@ -1,0 +1,42 @@
+# Config files
+appsettings.json
+appsettings.*.json
+!appsettings.example.json
+
+# .NET Core
+bin/
+obj/
+*.dll
+*.pdb
+*.user
+*.suo
+*.cache
+*.vspscc
+*.vssscc
+.vs/
+
+# Runtime files
+*.log
+logs/
+temp/
+
+# IDE
+.vscode/
+*.swp
+*.swo
+
+# Dependencies
+packages/
+node_modules/
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
