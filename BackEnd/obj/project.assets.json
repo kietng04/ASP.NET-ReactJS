@@ -11620,25 +11620,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Kiet\\.nuget\\packages\\": {}
+    "C:\\Users\\KIET\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kiet\\Desktop\\ASP.NET-ReactJS\\BackEnd\\AccountApplication.csproj",
+      "projectUniqueName": "C:\\Users\\KIET\\Desktop\\ASP.NET-ReactJS\\BackEnd\\AccountApplication.csproj",
       "projectName": "AccountApplication",
-      "projectPath": "C:\\Users\\Kiet\\Desktop\\ASP.NET-ReactJS\\BackEnd\\AccountApplication.csproj",
-      "packagesPath": "C:\\Users\\Kiet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kiet\\Desktop\\ASP.NET-ReactJS\\BackEnd\\obj\\",
+      "projectPath": "C:\\Users\\KIET\\Desktop\\ASP.NET-ReactJS\\BackEnd\\AccountApplication.csproj",
+      "packagesPath": "C:\\Users\\KIET\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\KIET\\Desktop\\ASP.NET-ReactJS\\BackEnd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Kiet\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\KIET\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -11699,7 +11698,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.410\\RuntimeIdentifierGraph.json"
       }
     }
   }
